@@ -8,4 +8,6 @@
 
 - ### `HistoryOfUnixAndLinux.md`: _History of Linux and Unix_
 - ### `TerminalShellAndBash.md`: _Terminal, Shell, and Bash_
+- ### `CommandStructureBasics.md`: _Command Structure Basics, i.e. syntax, options, arguments, etc._
 - ### `LinuxCommandLine.md`:
+
